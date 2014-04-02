@@ -3,8 +3,9 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
            id="com.phonegap.plugins.SciNotificationPlugin"
       version="1.1.2">
-    <name>phonegap-parse-plugin</name>
+    <name>phonegap-parse-scinotificationplugin</name>
     <description>phonegap parse plugin</description>
+    <license>MIT</license>
 
     <js-module src="www/cdv-plugin-parse.js" name="ParsePlugin">
         <clobbers target="window.parsePlugin" />
