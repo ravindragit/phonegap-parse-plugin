@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-           id="com.phonegap.plugins.SciNotificationPlugin"
+           id="com.phonegap.plugins.parseplugin"
       version="1.1.2">
-    <name>phonegap-parse-scinotificationplugin</name>
+    <name>phonegap-parse-plugin</name>
     <description>phonegap parse plugin</description>
     <license>MIT</license>
 
